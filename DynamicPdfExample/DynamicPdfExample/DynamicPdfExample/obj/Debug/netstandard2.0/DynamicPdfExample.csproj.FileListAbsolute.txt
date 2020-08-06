@@ -1,0 +1,13 @@
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\bin\Debug\netstandard2.0\DynamicPdfExample.deps.json
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\bin\Debug\netstandard2.0\DynamicPdfExample.dll
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\obj\Debug\netstandard2.0\DynamicPdfExample.csprojAssemblyReference.cache
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\obj\Debug\netstandard2.0\DynamicPdfExample.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\obj\Debug\netstandard2.0\DynamicPdfExample.AssemblyInfo.cs
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\bin\Debug\netstandard2.0\ref\DynamicPdfExample.dll
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\bin\Debug\netstandard2.0\DynamicPdfExample.pdb
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\obj\Debug\netstandard2.0\DynamicPdfExample.dll
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\obj\Debug\netstandard2.0\ref\DynamicPdfExample.dll
+C:\Users\david\source\repos\DynamicPdfExample\DynamicPdfExample\DynamicPdfExample\obj\Debug\netstandard2.0\DynamicPdfExample.pdb
